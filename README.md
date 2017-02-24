@@ -37,4 +37,7 @@ Fill the form and click submit. It will direct you to a page with JSON object pr
 
 _________________________________________________________
 
+Frameworks used: Nodejs, Express
+
 PS: The program is no where near perfect. It has a lot of bugs but is a preliminary deployment.
+
